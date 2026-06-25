@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # frontend_app
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# digitClassification
+>>>>>>> 471b0e59890d4cf405b7c359d561921bfe69a358
